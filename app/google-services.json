@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679929647429",
+    "project_id": "fir-rtkotlin",
+    "storage_bucket": "fir-rtkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679929647429:android:2bb62e71afd3d9c7422e2c",
+        "android_client_info": {
+          "package_name": "com.example.kotlintutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679929647429-3poovp7lel5gvm96fgngfk5q2oo046al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe_0bR0nzuX2rvpuxeA7Ruf5vL9LH6hHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679929647429-3poovp7lel5gvm96fgngfk5q2oo046al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
